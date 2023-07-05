@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+img{
+	padding-left:8px;
+	object-fit:cover;
+}
